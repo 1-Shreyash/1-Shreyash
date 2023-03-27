@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on front end web developement<br>👯 I’m looking to collaborate on projects i could be helpful<br>🤝 I’m looking for help with structuring web designs <br>🌱 I’m currently learning C++ and CSS<br>💬 Ask me about basic web developement<br>⚡ Fun fact I am enjoying developing websites😇
 
 
 # 💻 Tech Stack:
