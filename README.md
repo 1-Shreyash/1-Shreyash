@@ -8,6 +8,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=1-Shreyash&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=1-Shreyash&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1-Shreyash&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+<br/>
+<a href="https://github.com/1-Shreyash/github-readme-activity-graph"><img alt="Shreyash Shahu's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=1-Shreyash&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+<br/>
+![](./profile-3d-contrib/profile-night-view.svg)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
