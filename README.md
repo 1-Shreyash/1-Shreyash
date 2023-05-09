@@ -14,7 +14,7 @@
 <a href="https://github.com/1-Shreyash/github-readme-activity-graph"><img alt="Shreyash Shahu's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=1-Shreyash&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 ### ✍️ Random Dev Quote
