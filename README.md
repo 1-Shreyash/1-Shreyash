@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on front end web developement<br>👯 I’m looking to collaborate on projects in Reactjs<br>🌱 I’m currently learning React and JavaScript<br>💬 Ask me about front end web developement<br>⚡ Fun fact I can take amazing space photographs.
+🔭 I’m currently working on FULL STACK PROJECTS<br>👯 I’m looking to collaborate on projects in MERN STACK DEVELOPEMENT<br>🌱 I’m currently learning MERN STACK<br>💬 Ask me about FULL STACK DEVELOPEMENT AND COMPETITIVE PROGRAMMING<br>⚡ Fun fact I can take amazing space photographs.
 
 
 # 💻 Tech Stack:
